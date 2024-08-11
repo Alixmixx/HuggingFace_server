@@ -1,0 +1,10 @@
+torch
+torchvision
+diffusers
+transformers
+accelerate
+fastapi
+gunicorn
+uvicorn
+sentencepiece
+protobuf
